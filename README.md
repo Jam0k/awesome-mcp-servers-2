@@ -517,6 +517,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Tasks](https://github.com/flesler/mcp-tasks)** - An efficient task manager. Designed to minimize tool confusion and maximize LLM budget efficiency while providing powerful search, filtering, and organization capabilities across multiple file formats (Markdown, JSON, YAML)
 - **[Text-To-GraphQL](https://github.com/Arize-ai/text-to-graphql-mcp)** - MCP server for text-to-graphql, integrates with Claude Desktop and Cursor.
 - **[TeamCity](https://github.com/itcaat/teamcity-mcp)** - MCP server for TeamCity, integrates with Claude Desktop and Cursor.
+- **[ThreatCluster](https://github.com/Jam0k/Threat-Intelligence-MCP)** - Threat intelligence: incident clusters, validated IOCs, CVE/KEV/EPSS lookup, ransomware leak-site victims and entity profiles. Hosted endpoint or `npx -y threatcluster-mcp`.
 - **[TikTok](https://github.com/Seym0n/tiktok-mcp)** - TikTok integration for getting post details and video subtitles
 - **[Time](https://github.com/TheoBrigitte/mcp-time)** - MCP server which provides utilities to work with time and dates, with natural language, multiple formats and timezone convertion capabilities.
 - **[Tmux](https://github.com/nickgnd/tmux-mcp)** - Interact with your Tmux sessions, windows and pane, execute commands in tmux panes and retrieve result.
