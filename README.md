@@ -259,6 +259,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Tencent Cloud COS MCP](https://github.com/Tencent/cos-mcp)** - Quickly integrate with Tencent Cloud Storage (COS) and Data Processing (CI) capabilities powered
 - **[Teradata](https://github.com/Teradata/teradata-mcp-server)** - A collection of tools for managing the platform, addressing data quality and reading and writing to [Teradata](https://www.teradata.com/) Database.
 - **[ThingsBoard](https://github.com/thingsboard/thingsboard-mcp)** - The ThingsBoard MCP Server provides a natural language interface for LLMs and AI agents to interact with your ThingsBoard IoT platform.
+- **[ThreatCluster](https://github.com/Jam0k/Threat-Intelligence-MCP)** - Live threat intelligence from [ThreatCluster](https://threatcluster.io): deduplicated incident clusters, threat actor/malware/CVE profiles with KEV and EPSS, and ransomware leak-site victims. Hosted remote at https://threatcluster.io/mcp or `npx -y threatcluster-mcp`.
 - **[Thirdweb](https://github.com/thirdweb-dev/ai/tree/main/python/thirdweb-mcp)** - Read/write to over 2k blockchains, enabling data querying, contract analysis/deployment, and transaction execution, powered by [Thirdweb](https://thirdweb.com/)
 - **[Tinybird](https://github.com/tinybirdco/mcp-tinybird)** - Interact with Tinybird serverless ClickHouse platform
 - **[Tldv](https://gitlab.com/tldv/tldv-mcp-server)** - Connect your AI agents to Google-Meet, Zoom & Microsoft Teams through [tl;dv](https://tldv.io)
